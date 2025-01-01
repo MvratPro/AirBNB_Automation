@@ -2,6 +2,7 @@ package payment;
 
 public class PaymentForm {
     public static void main(String[] args) {
+        // comment
         processPayment("John Doe", 49.99);
     }
     private static void processPayment(String payee, double amount){
